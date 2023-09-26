@@ -1,5 +1,6 @@
 # Magic square
 
+Only for 3x3
 
 #### Stack:
 
