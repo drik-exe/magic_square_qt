@@ -85,6 +85,3 @@ def decrypt(crypt_square, magic_square):
         i_pos, j_pos = find_in_matrix(i + 1, crypt_square)
         string += magic_square[i_pos][j_pos]
     return string
-
-if __name__ == '__main__':
-    print(generate_magic_squares())
