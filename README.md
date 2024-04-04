@@ -1,6 +1,5 @@
-# Magic square
+# Applications for encryption and decryption. Methods: Backpack, magic square, DES, ElGamal, XOR(gammirovanie), Pleiffer, RC4, RSA, Uitson, Vigenere
 
-Only for 3x3
 
 #### Stack:
 
@@ -23,4 +22,4 @@ All actions should be executed from the source directory of the project and only
    pip install -r requirements.txt
    ```
    
-3. Run project
+3. Run encryption
